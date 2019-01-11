@@ -4,6 +4,6 @@ This is a second line, added by Willem.
 New second line added by R.
 Also hello R.
 I want to add another line just before the end of the file.
-And another line is added!
-This is the last line.
-No, this is the last line ;-)
+<wd>And another line is added!</wd>
+<wd>This is the last line.</wd>
+<wd>No, this is the last line ;-)</wd>
