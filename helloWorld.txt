@@ -6,3 +6,4 @@ Also hello R.
 I want to add another line just before the end of the file.
 And another line is added!
 This is the last line.
+No, this is the last line ;-)
