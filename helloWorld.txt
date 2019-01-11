@@ -7,4 +7,4 @@ I want to add another line just before the end of the file.
 And another great line is added!
 This is not the last line anymore.
 Because the next line was added. And now this one is added as well.
-This works ok.
+This works as planned.
