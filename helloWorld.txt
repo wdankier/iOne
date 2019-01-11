@@ -1,6 +1,8 @@
 Hi willems wijziging met wat extra's!
 Ook een extra tweede regel
 This is a second line, added by Willem.
-nieuwe teweede regel toegevoegd door R.
+New second line added by R.
 Also hello R.
-And another line is added.
+I want to add another line just before the end of the file.
+And another line is added!
+This is the last line.
